@@ -5,6 +5,7 @@ description: This resource contains a poster for the lecture on projections and 
   and ?projecting? their voice and gestures in public space.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/2ff0783fe34160028c61e4b447ffe42f_vap_mon_wodiczko.pdf
 file_type: application/pdf
+parent_uid: 916298e6-ce4f-54aa-b2f4-fdb96cade55c
 resourcetype: Document
 title: vap_mon_wodiczko.pdf
 uid: 2ff0783f-e341-6002-8c61-e4b447ffe42f

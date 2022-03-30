@@ -4,6 +4,7 @@ description: 'This resource contains a presentation for a class project: Mapping
   Station.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/c649c23c607fc4c509303792ac9a5046_group2_pres.pdf
 file_type: application/pdf
+parent_uid: 6768a0b9-f710-9139-2841-0d418c6aed08
 resourcetype: Document
 title: group2_pres.pdf
 uid: c649c23c-607f-c4c5-0930-3792ac9a5046
