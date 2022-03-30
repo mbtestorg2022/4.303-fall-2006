@@ -30,29 +30,264 @@ At mid term the groups will introduce their proposal and at the finals the group
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Proposal (mid term) and realization (finals) | 75% |
-| Readings/Discussions and class attendance | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Proposal (mid term) and realization (finals)
+{{< tdclose >}}
+{{< tdopen >}}
+75%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Readings/Discussions and class attendance
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Presentation Guenther Selichar (Austria) {{< br >}}{{< br >}} Introduction/Overview of material, formation of teams {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Presentation Regina Moeller, Visiting Prof. VAP (Germany) {{< br >}}{{< br >}} Regina Moeller - Discussion of her work and introduction to comicbooks {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} "Why don't we do it on the road" - Prof. Ute Meta Bauer {{< br >}}{{< br >}} "Reclaim the street" - Urban practices of the nineties, site specificity {{< br >}}{{< br >}} Introduction and discussion on reader texts, formation of groups {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Trevor paglen terminal air (Institute for Applied Autonomy) Guest of CAVS {{< br >}}{{< br >}} Field trip to "Juergen Staack: Left behind, …missing pictures" at Space Other Gallery, Boston {{< br >}}{{< br >}}  |
-| 5 | Texts Bachelard, Bataille, Foucault, Hayden, Hollier, Defert |
-| 6 |  {{< br >}}{{< br >}} Text debate and group work {{< br >}}{{< br >}} Stata Centre field trip {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Conference on "Theatricality in Contemporary Article. Part I" {{< br >}}{{< br >}} Situationists: Legacies and antecedents, Guy Debord film {{< br >}}{{< br >}} Group work and discussion for mid-term {{< br >}}{{< br >}} Mapping presentation by Stefan Heidenreich {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Mid-term project: In class presentation {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Krzysztof Wodiczko {{< br >}}{{< br >}} Visit to media lab {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Gustavo Artigas (Artist, Mexico City) Guest of Harvard  {{< br >}}CAVS Artist Group N55 introduce their work (Guest of the Interrogative Design Group, Prof. Wodizcko) {{< br >}}{{< br >}} Review of semester projects "Work-in-progress" with Guest Reviewers Azra Aksamija and Jenny Ferng {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Christopher Sequeira and Victoria Powers (Pugwash) and Chris Csikszentmihalyi (Director, Computing Culture Group at MIT Media Lab) {{< br >}}{{< br >}} Performative actions versus monuments {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} CCTV / Culture Agents (Harvard) {{< br >}}{{< br >}} Visit to MIT museum; Mary Otis Stevens Archive (tentative) {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} Final project: Public presentation {{< br >}}{{< br >}}  |
-| 14 |  {{< br >}}{{< br >}} CAVS Damon Rich presents CUP (Center for Urban Pedagogy) {{< br >}}{{< br >}} Wrap-up seminar and project evaluation {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Presentation Guenther Selichar (Austria)
+
+Introduction/Overview of material, formation of teams
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Presentation Regina Moeller, Visiting Prof. VAP (Germany)
+
+Regina Moeller - Discussion of her work and introduction to comicbooks
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Why don't we do it on the road" - Prof. Ute Meta Bauer
+
+"Reclaim the street" - Urban practices of the nineties, site specificity
+
+Introduction and discussion on reader texts, formation of groups
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Trevor paglen terminal air (Institute for Applied Autonomy) Guest of CAVS
+
+Field trip to "Juergen Staack: Left behind, …missing pictures" at Space Other Gallery, Boston
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Texts Bachelard, Bataille, Foucault, Hayden, Hollier, Defert
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Text debate and group work
+
+Stata Centre field trip
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Conference on "Theatricality in Contemporary Article. Part I"
+
+Situationists: Legacies and antecedents, Guy Debord film
+
+Group work and discussion for mid-term
+
+Mapping presentation by Stefan Heidenreich
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mid-term project: In class presentation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Krzysztof Wodiczko
+
+Visit to media lab
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gustavo Artigas (Artist, Mexico City) Guest of Harvard  
+CAVS Artist Group N55 introduce their work (Guest of the Interrogative Design Group, Prof. Wodizcko)
+
+Review of semester projects "Work-in-progress" with Guest Reviewers Azra Aksamija and Jenny Ferng
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Christopher Sequeira and Victoria Powers (Pugwash) and Chris Csikszentmihalyi (Director, Computing Culture Group at MIT Media Lab)
+
+Performative actions versus monuments
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+CCTV / Culture Agents (Harvard)
+
+Visit to MIT museum; Mary Otis Stevens Archive (tentative)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final project: Public presentation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+CAVS Damon Rich presents CUP (Center for Urban Pedagogy)
+
+Wrap-up seminar and project evaluation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Note: There are a number of books and articles that the student may want to become familiar with as background to these discourses.
